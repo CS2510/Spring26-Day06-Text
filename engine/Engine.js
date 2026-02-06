@@ -1,3 +1,8 @@
+/* Please carefully review the rules about academic integrity found in the academicIntegrity.md file found at the root of this project */
+
+/**
+ * The main engine class of our engine. It starts the game and runs the game loop.
+ */
 class Engine {
     static currentScene
 
